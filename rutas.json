@@ -1,0 +1,95 @@
+{
+    "clientes": [
+      {
+        "nombre": "Cliente A",
+        "latitud": 4.7110,
+        "longitud": -74.0721,
+        "ventana_tiempo": {
+          "inicio": "09:00",
+          "fin": "10:30"
+        }
+      },
+      {
+        "nombre": "Cliente B",
+        "latitud": 4.6243,
+        "longitud": -74.0636,
+        "ventana_tiempo": {
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      },
+      {
+        "nombre": "Cliente C",
+        "latitud": 4.6775,
+        "longitud": -74.0489,
+        "ventana_tiempo": {
+          "inicio": "10:30",
+          "fin": "12:00"
+        }
+      },
+      {
+        "nombre": "Cliente D",
+        "latitud": 4.6544,
+        "longitud": -74.0821,
+        "ventana_tiempo": {
+          "inicio": "11:00",
+          "fin": "12:30"
+        }
+      },
+      {
+        "nombre": "Cliente E",
+        "latitud": 4.6650,
+        "longitud": -74.0421,
+        "ventana_tiempo": {
+          "inicio": "09:00",
+          "fin": "10:30"
+        }
+      },
+      {
+        "nombre": "Cliente F",
+        "latitud": 4.6910,
+        "longitud": -74.0750,
+        "ventana_tiempo": {
+          "inicio": "09:30",
+          "fin": "11:00"
+        }
+      },
+      {
+        "nombre": "Cliente G",
+        "latitud": 4.6140,
+        "longitud": -74.0710,
+        "ventana_tiempo": {
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      },
+      {
+        "nombre": "Cliente H",
+        "latitud": 4.6890,
+        "longitud": -74.0580,
+        "ventana_tiempo": {
+          "inicio": "11:00",
+          "fin": "12:30"
+        }
+      },
+      {
+        "nombre": "Cliente I",
+        "latitud": 4.7090,
+        "longitud": -74.0600,
+        "ventana_tiempo": {
+          "inicio": "12:00",
+          "fin": "13:30"
+        }
+      },
+      {
+        "nombre": "Cliente J",
+        "latitud": 4.7190,
+        "longitud": -74.0650,
+        "ventana_tiempo": {
+          "inicio": "12:30",
+          "fin": "14:00"
+        }
+      }
+    ]
+  }
+  
